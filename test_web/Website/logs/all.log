@@ -1,0 +1,387 @@
+2019-06-04 22:10:01 function.py [line:19] INFO 打开浏览器
+2019-06-04 22:11:37 function.py [line:19] INFO 打开浏览器
+2019-06-04 22:12:12 function.py [line:19] INFO 打开浏览器
+2019-06-04 22:12:57 function.py [line:19] INFO 打开浏览器
+2019-06-04 22:13:16 function.py [line:19] INFO 打开浏览器
+2019-06-04 22:13:34 function.py [line:19] INFO 打开浏览器
+2019-06-04 22:14:25 function.py [line:20] INFO 打开浏览器
+2019-06-05 20:28:34 mysql_datebase.py [line:81] INFO 执行select方法：select ['computer_part', 'computer_info'] from good where ['id=4']
+2019-06-05 20:29:20 mysql_datebase.py [line:81] INFO 执行select方法：select ['computer_part', 'computer_info'] from good where ['id=4']
+2019-06-05 20:29:20 mysql_datebase.py [line:89] INFO (('组件3', '组件信息'),)
+2019-06-06 22:22:47 function.py [line:109] INFO 检查登录状态
+2019-06-06 22:22:50 function.py [line:115] INFO 加载最新存储的cookies
+2019-06-06 22:22:53 function.py [line:23] INFO 保存截图
+2019-06-06 22:25:28 function.py [line:109] INFO 检查登录状态
+2019-06-06 22:27:16 function.py [line:109] INFO 检查登录状态
+2019-06-06 22:29:14 function.py [line:109] INFO 检查登录状态
+2019-06-06 22:29:17 function.py [line:115] INFO 加载最新存储的cookies
+2019-06-06 22:29:20 function.py [line:23] INFO 保存截图
+2019-06-06 22:29:45 function.py [line:109] INFO 检查登录状态
+2019-06-06 22:29:48 function.py [line:115] INFO 加载最新存储的cookies
+2019-06-06 22:29:51 function.py [line:23] INFO 保存截图
+2019-06-06 22:31:26 goods_list_page.py [line:15] INFO 点击电脑-笔记本
+2019-06-06 22:33:26 goods_list_page.py [line:15] INFO 点击电脑-笔记本
+2019-06-06 22:35:08 goods_list_page.py [line:15] INFO 点击电脑-笔记本
+2019-06-06 22:35:44 goods_list_page.py [line:15] INFO 点击电脑-笔记本
+2019-06-06 22:37:28 goods_list_page.py [line:15] INFO 点击电脑-笔记本
+2019-06-06 22:37:51 goods_list_page.py [line:15] INFO 点击电脑-笔记本
+2019-06-06 22:39:06 goods_list_page.py [line:15] INFO 点击电脑-笔记本
+2019-06-06 22:40:44 goods_list_page.py [line:15] INFO 点击电脑-笔记本
+2019-06-06 22:42:43 goods_list_page.py [line:15] INFO 点击电脑-笔记本
+2019-06-06 22:42:44 goods_list_page.py [line:22] INFO 点击-价格-评论
+2019-06-06 22:45:03 goods_list_page.py [line:15] INFO 点击电脑-笔记本
+2019-06-06 22:45:05 goods_list_page.py [line:22] INFO 点击-价格-评论
+2019-06-06 22:45:19 goods_list_page.py [line:15] INFO 点击电脑-笔记本
+2019-06-06 22:45:20 goods_list_page.py [line:22] INFO 点击-价格-评论
+2019-06-06 22:45:39 goods_list_page.py [line:15] INFO 点击电脑-笔记本
+2019-06-06 22:45:41 goods_list_page.py [line:22] INFO 点击-价格-评论
+2019-06-06 22:46:15 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 22:46:55 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 22:47:29 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 22:47:59 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 22:48:02 goods_list_page.py [line:25] INFO 点击-价格-评论
+2019-06-06 22:55:23 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 22:56:31 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 22:56:37 goods_list_page.py [line:25] INFO 点击-价格-评论
+2019-06-06 22:56:51 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 22:56:54 goods_list_page.py [line:25] INFO 点击-价格-评论
+2019-06-06 22:57:47 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 22:59:07 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 22:59:14 goods_list_page.py [line:25] INFO 点击-价格-评论
+2019-06-06 23:03:02 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 23:03:02 goods_list_page.py [line:25] INFO 点击-价格-评论
+2019-06-06 23:03:30 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 23:03:30 goods_list_page.py [line:25] INFO 点击-价格-评论
+2019-06-06 23:04:28 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 23:04:28 goods_list_page.py [line:25] INFO 点击-价格-评论
+2019-06-06 23:05:57 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 23:05:57 goods_list_page.py [line:25] INFO 点击-价格-评论
+2019-06-06 23:06:37 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 23:06:37 goods_list_page.py [line:25] INFO 点击-价格-评论
+2019-06-06 23:07:42 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 23:07:42 goods_list_page.py [line:25] INFO 点击-价格-评论
+2019-06-06 23:09:02 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 23:09:02 goods_list_page.py [line:25] INFO 点击-价格-评论
+2019-06-06 23:10:17 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 23:10:17 goods_list_page.py [line:25] INFO 点击-价格-评论
+2019-06-06 23:11:29 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 23:11:29 goods_list_page.py [line:25] INFO 点击-价格-评论
+2019-06-06 23:13:23 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 23:13:23 goods_list_page.py [line:25] INFO 点击-价格-评论
+2019-06-06 23:14:05 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 23:14:05 goods_list_page.py [line:25] INFO 点击-价格-评论
+2019-06-06 23:15:18 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 23:15:18 goods_list_page.py [line:25] INFO 点击-价格-评论
+2019-06-06 23:18:19 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 23:18:19 goods_list_page.py [line:25] INFO 点击-价格-评论
+2019-06-06 23:18:57 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 23:18:57 goods_list_page.py [line:25] INFO 点击-价格-评论
+2019-06-06 23:22:10 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 23:22:10 goods_list_page.py [line:25] INFO 点击-价格-评论
+2019-06-06 23:23:07 function.py [line:109] INFO 检查登录状态
+2019-06-06 23:23:09 function.py [line:115] INFO 加载最新存储的cookies
+2019-06-06 23:23:12 function.py [line:23] INFO 保存截图
+2019-06-06 23:23:53 function.py [line:109] INFO 检查登录状态
+2019-06-06 23:23:55 function.py [line:115] INFO 加载最新存储的cookies
+2019-06-06 23:23:58 function.py [line:23] INFO 保存截图
+2019-06-06 23:24:36 function.py [line:109] INFO 检查登录状态
+2019-06-06 23:24:39 function.py [line:115] INFO 加载最新存储的cookies
+2019-06-06 23:24:41 function.py [line:23] INFO 保存截图
+2019-06-06 23:25:10 function.py [line:109] INFO 检查登录状态
+2019-06-06 23:25:13 function.py [line:115] INFO 加载最新存储的cookies
+2019-06-06 23:25:16 function.py [line:23] INFO 保存截图
+2019-06-06 23:25:22 goods_list_page.py [line:16] INFO 点击电脑-笔记本
+2019-06-06 23:25:22 goods_list_page.py [line:25] INFO 点击-价格-评论
+2019-06-07 08:59:04 function.py [line:109] INFO 检查登录状态
+2019-06-07 08:59:07 function.py [line:115] INFO 加载最新存储的cookies
+2019-06-07 08:59:10 function.py [line:23] INFO 保存截图
+2019-06-07 08:59:16 goods_list_page.py [line:17] INFO 点击电脑-笔记本
+2019-06-07 08:59:16 goods_list_page.py [line:26] INFO 点击-价格-评论
+2019-06-07 09:01:21 function.py [line:109] INFO 检查登录状态
+2019-06-07 09:01:31 function.py [line:115] INFO 加载最新存储的cookies
+2019-06-07 09:01:40 function.py [line:23] INFO 保存截图
+2019-06-07 09:01:48 goods_list_page.py [line:17] INFO 点击电脑-笔记本
+2019-06-07 09:01:48 goods_list_page.py [line:26] INFO 点击-价格-评论
+2019-06-07 09:03:57 function.py [line:109] INFO 检查登录状态
+2019-06-07 09:04:06 function.py [line:115] INFO 加载最新存储的cookies
+2019-06-07 09:04:16 function.py [line:23] INFO 保存截图
+2019-06-07 09:04:27 goods_list_page.py [line:17] INFO 点击电脑-笔记本
+2019-06-07 09:04:27 goods_list_page.py [line:26] INFO 点击-价格-评论
+2019-06-07 09:05:33 function.py [line:109] INFO 检查登录状态
+2019-06-07 09:05:42 function.py [line:115] INFO 加载最新存储的cookies
+2019-06-07 09:05:51 function.py [line:23] INFO 保存截图
+2019-06-07 09:06:02 goods_list_page.py [line:17] INFO 点击电脑-笔记本
+2019-06-07 09:06:02 goods_list_page.py [line:26] INFO 点击-价格-评论
+2019-06-07 09:07:43 function.py [line:109] INFO 检查登录状态
+2019-06-07 09:07:46 function.py [line:115] INFO 加载最新存储的cookies
+2019-06-07 09:07:51 function.py [line:23] INFO 保存截图
+2019-06-07 09:07:56 goods_list_page.py [line:17] INFO 点击电脑-笔记本
+2019-06-07 09:07:56 goods_list_page.py [line:26] INFO 点击-价格-评论
+2019-06-07 09:11:05 function.py [line:109] INFO 检查登录状态
+2019-06-07 09:11:14 function.py [line:115] INFO 加载最新存储的cookies
+2019-06-07 09:11:23 function.py [line:23] INFO 保存截图
+2019-06-07 09:11:34 goods_list_page.py [line:17] INFO 点击电脑-笔记本
+2019-06-07 09:11:34 goods_list_page.py [line:26] INFO 点击-价格-评论
+2019-06-07 09:12:23 function.py [line:109] INFO 检查登录状态
+2019-06-07 09:12:32 function.py [line:115] INFO 加载最新存储的cookies
+2019-06-07 09:12:41 function.py [line:23] INFO 保存截图
+2019-06-07 09:12:52 goods_list_page.py [line:17] INFO 点击电脑-笔记本
+2019-06-07 09:12:52 goods_list_page.py [line:26] INFO 点击-价格-评论
+2019-06-07 09:13:42 function.py [line:109] INFO 检查登录状态
+2019-06-07 09:13:52 function.py [line:115] INFO 加载最新存储的cookies
+2019-06-07 09:14:01 function.py [line:23] INFO 保存截图
+2019-06-07 09:14:12 goods_list_page.py [line:17] INFO 点击电脑-笔记本
+2019-06-07 09:14:12 goods_list_page.py [line:26] INFO 点击-价格-评论
+2019-06-07 09:19:48 function.py [line:109] INFO 检查登录状态
+2019-06-07 09:19:58 function.py [line:115] INFO 加载最新存储的cookies
+2019-06-07 09:20:08 function.py [line:23] INFO 保存截图
+2019-06-07 09:20:19 goods_list_page.py [line:17] INFO 点击电脑-笔记本
+2019-06-07 09:20:19 goods_list_page.py [line:26] INFO 点击-价格-评论
+2019-06-07 09:20:50 goods_list_page.py [line:65] INFO 将文本存储至数据库
+2019-06-07 09:20:50 mysql_datebase.py [line:47] INFO 执行inset方法：insert into good(['computer_part', 'computer_info']) values (['主体', "{'系列': 'ThinkPad E480', '型号': 'ThinkPad E480（20KNA012CD）', '颜色': '冰原银', '平台': 'Intel', '认证型号': 'ThinkPad E480'}"])
+2019-06-07 09:20:50 mysql_datebase.py [line:58] INFO 1
+2019-06-07 09:20:50 mysql_datebase.py [line:47] INFO 执行inset方法：insert into good(['computer_part', 'computer_info']) values (['操作系统', "{'操作系统': 'Windows 10 家庭版'}"])
+2019-06-07 09:20:50 mysql_datebase.py [line:58] INFO 1
+2019-06-07 09:20:50 mysql_datebase.py [line:47] INFO 执行inset方法：insert into good(['computer_part', 'computer_info']) values (['处理器', "{'CPU类型': 'Intel 第8代 酷睿', 'CPU型号': 'i7-8550U', 'CPU速度': '1.8GHz睿频至4.0GHz', '三级缓存': '8M', '核心': '四核'}"])
+2019-06-07 09:20:50 mysql_datebase.py [line:58] INFO 1
+2019-06-07 09:20:50 mysql_datebase.py [line:47] INFO 执行inset方法：insert into good(['computer_part', 'computer_info']) values (['内存', "{'内存容量': '16GB', '插槽数量': '2 x SO-DIMM'}"])
+2019-06-07 09:20:50 mysql_datebase.py [line:58] INFO 1
+2019-06-07 09:20:50 mysql_datebase.py [line:47] INFO 执行inset方法：insert into good(['computer_part', 'computer_info']) values (['硬盘', "{'硬盘容量': '1TB', '转速': '5400转/分钟', '固态硬盘': '256GB SSD'}"])
+2019-06-07 09:20:50 mysql_datebase.py [line:58] INFO 1
+2019-06-07 09:20:50 mysql_datebase.py [line:47] INFO 执行inset方法：insert into good(['computer_part', 'computer_info']) values (['显卡', "{'类型': '独立显卡', '显示芯片': 'AMD Radeon RX550 2GB GDDR5 独立显存', '显存容量': '独立2GB'}"])
+2019-06-07 09:20:50 mysql_datebase.py [line:58] INFO 1
+2019-06-07 09:20:50 mysql_datebase.py [line:47] INFO 执行inset方法：insert into good(['computer_part', 'computer_info']) values (['光驱', "{'光驱类型': '无光驱'}"])
+2019-06-07 09:20:50 mysql_datebase.py [line:58] INFO 1
+2019-06-07 09:20:50 mysql_datebase.py [line:47] INFO 执行inset方法：insert into good(['computer_part', 'computer_info']) values (['显示器', "{'屏幕尺寸': '14英寸', '屏幕规格': '14.0英寸', '显示比例': '宽屏16：9', '物理分辨率': '1920×1080', '屏幕类型': 'LED背光'}"])
+2019-06-07 09:20:50 mysql_datebase.py [line:58] INFO 1
+2019-06-07 09:20:50 mysql_datebase.py [line:47] INFO 执行inset方法：insert into good(['computer_part', 'computer_info']) values (['通信', "{'内置蓝牙': '蓝牙4.1', '局域网': '10/100/1000Mbps', '无线局域网': '有'}"])
+2019-06-07 09:20:50 mysql_datebase.py [line:58] INFO 1
+2019-06-07 09:20:50 mysql_datebase.py [line:47] INFO 执行inset方法：insert into good(['computer_part', 'computer_info']) values (['端口', "{'USB2.0': '1 个', '音频端口': '耳机、麦克风二合一接口', 'RJ45': '1个', 'USB3.0': '2个'}"])
+2019-06-07 09:20:50 mysql_datebase.py [line:58] INFO 1
+2019-06-07 09:20:50 mysql_datebase.py [line:47] INFO 执行inset方法：insert into good(['computer_part', 'computer_info']) values (['音效系统', "{'扬声器': '内置扬声器', '内置麦克风': '有'}"])
+2019-06-07 09:20:50 mysql_datebase.py [line:58] INFO 1
+2019-06-07 09:20:50 mysql_datebase.py [line:47] INFO 执行inset方法：insert into good(['computer_part', 'computer_info']) values (['输入设备', "{'键盘': '背光键盘', '触摸板': '有', '指点杆': '有'}"])
+2019-06-07 09:20:50 mysql_datebase.py [line:58] INFO 1
+2019-06-07 09:20:50 mysql_datebase.py [line:47] INFO 执行inset方法：insert into good(['computer_part', 'computer_info']) values (['其它设备', "{'网络摄像头': '有', '摄像头像素': '720p', '指纹识别': '无'}"])
+2019-06-07 09:20:50 mysql_datebase.py [line:58] INFO 1
+2019-06-07 09:20:50 mysql_datebase.py [line:47] INFO 执行inset方法：insert into good(['computer_part', 'computer_info']) values (['电源', "{'电池': '其它', '续航时间': '5-8小时', '电源适配器': '100-240V自适应交流电源适配器'}"])
+2019-06-07 09:20:50 mysql_datebase.py [line:58] INFO 1
+2019-06-07 09:20:50 mysql_datebase.py [line:47] INFO 执行inset方法：insert into good(['computer_part', 'computer_info']) values (['机器规格', "{'尺寸': '约19.9mm x 329mm x 242mm', '净重': '1.5kg-2kg'}"])
+2019-06-07 09:20:50 mysql_datebase.py [line:58] INFO 1
+2019-06-07 09:39:45 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 09:39:45 login_page.py [line:19] INFO -----------开始登录----------
+2019-06-07 09:40:46 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 09:40:46 login_page.py [line:19] INFO -----------开始登录----------
+2019-06-07 09:42:00 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 09:42:44 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 09:42:44 login_page.py [line:19] INFO -----------开始登录----------
+2019-06-07 09:43:09 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 09:43:09 login_page.py [line:19] INFO -----------开始登录----------
+2019-06-07 09:44:07 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 09:44:09 login_page.py [line:19] INFO -----------开始登录----------
+2019-06-07 09:44:58 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 09:44:59 login_page.py [line:19] INFO -----------开始登录----------
+2019-06-07 09:45:03 function.py [line:23] INFO 保存截图
+2019-06-07 09:47:33 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 09:48:25 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 09:48:27 login_page.py [line:19] INFO -----------开始登录----------
+2019-06-07 09:49:00 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 09:49:02 login_page.py [line:19] INFO -----------开始登录----------
+2019-06-07 09:54:06 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 09:54:07 login_page.py [line:19] INFO -----------开始登录----------
+2019-06-07 09:54:10 function.py [line:23] INFO 保存截图
+2019-06-07 09:55:08 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 09:55:09 login_page.py [line:19] INFO -----------开始登录----------
+2019-06-07 09:55:39 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 09:55:40 login_page.py [line:19] INFO -----------开始登录----------
+2019-06-07 09:57:56 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 09:57:57 login_page.py [line:19] INFO -----------开始登录----------
+2019-06-07 09:58:00 function.py [line:23] INFO 保存截图
+2019-06-07 09:59:16 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 09:59:18 login_page.py [line:19] INFO -----------开始登录----------
+2019-06-07 09:59:21 function.py [line:23] INFO 保存截图
+2019-06-07 09:59:52 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 09:59:53 login_page.py [line:19] INFO -----------开始登录----------
+2019-06-07 09:59:57 function.py [line:23] INFO 保存截图
+2019-06-07 10:02:27 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 10:02:35 login_page.py [line:19] INFO -----------开始登录----------
+2019-06-07 10:03:14 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 10:03:16 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-07 10:03:20 function.py [line:23] INFO 保存截图
+2019-06-07 10:03:57 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 10:03:59 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-07 10:04:04 login_page.py [line:29] INFO 获取cookies
+2019-06-07 10:04:24 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 10:04:27 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-07 10:04:31 login_page.py [line:29] INFO 获取cookies
+2019-06-07 10:04:46 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 10:04:52 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-07 10:06:27 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 10:06:47 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 10:07:20 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 10:07:40 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 10:10:16 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 10:10:24 login_page.py [line:22] INFO -----------开始登录----------
+2019-06-07 10:10:28 function.py [line:23] INFO 保存截图
+2019-06-07 10:11:48 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 10:12:00 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 10:12:08 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-07 10:12:24 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 10:12:32 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-07 10:12:36 function.py [line:23] INFO 保存截图
+2019-06-07 10:13:30 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 10:14:22 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 10:14:40 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 10:14:41 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-07 10:14:46 function.py [line:23] INFO 保存截图
+2019-06-07 10:16:04 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 10:16:12 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-07 10:16:16 function.py [line:23] INFO 保存截图
+2019-06-07 10:16:49 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 10:16:50 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-07 10:16:54 function.py [line:23] INFO 保存截图
+2019-06-07 10:16:55 function.py [line:23] INFO 保存截图
+2019-06-07 10:17:27 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 10:17:29 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-07 10:17:33 function.py [line:23] INFO 保存截图
+2019-06-07 10:18:35 test_login.py [line:12] INFO start test_login1_normal
+2019-06-07 10:18:36 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-07 10:18:40 function.py [line:23] INFO 保存截图
+2019-06-08 08:38:38 test_login.py [line:12] INFO start test_login1_normal
+2019-06-08 08:38:39 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 08:38:45 function.py [line:23] INFO 保存截图
+2019-06-08 08:38:58 test_login.py [line:12] INFO start test_login1_normal
+2019-06-08 08:38:59 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 08:39:03 function.py [line:23] INFO 保存截图
+2019-06-08 08:40:35 test_login.py [line:12] INFO start test_login1_normal
+2019-06-08 08:40:36 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 08:40:40 function.py [line:23] INFO 保存截图
+2019-06-08 08:40:41 function.py [line:23] INFO 保存截图
+2019-06-08 08:43:48 test_login.py [line:12] INFO start test_login1_normal
+2019-06-08 08:43:49 function.py [line:109] INFO 检查登录状态
+2019-06-08 08:43:52 function.py [line:115] INFO 加载最新存储的cookies
+2019-06-08 08:43:54 function.py [line:23] INFO 保存截图
+2019-06-08 08:43:57 function.py [line:23] INFO 保存截图
+2019-06-08 08:46:13 test_login.py [line:23] INFO start test_login_error
+2019-06-08 08:46:14 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 08:47:10 test_login.py [line:23] INFO start test_login_error
+2019-06-08 08:47:11 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 08:50:18 test_login.py [line:33] INFO start test_login_empty
+2019-06-08 08:50:52 test_login.py [line:33] INFO start test_login_empty
+2019-06-08 08:50:54 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 08:50:58 function.py [line:23] INFO 保存截图
+2019-06-08 08:50:58 login_page.py [line:29] INFO 获取cookies
+2019-06-08 08:50:58 function.py [line:23] INFO 保存截图
+2019-06-08 08:51:19 test_login.py [line:33] INFO start test_login_empty
+2019-06-08 08:51:38 test_login.py [line:33] INFO start test_login_empty
+2019-06-08 08:54:46 test_login.py [line:33] INFO start test_login_empty
+2019-06-08 08:54:47 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 08:56:11 test_login.py [line:33] INFO start test_login_empty
+2019-06-08 08:56:11 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:03:34 test_login.py [line:33] INFO start test_login_empty
+2019-06-08 09:03:34 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:04:43 test_login.py [line:33] INFO start test_login_empty
+2019-06-08 09:04:44 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:05:29 test_login.py [line:33] INFO start test_login_empty
+2019-06-08 09:05:30 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:05:46 test_login.py [line:33] INFO start test_login_empty
+2019-06-08 09:05:47 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:08:12 test_login.py [line:24] INFO start test_login_error
+2019-06-08 09:08:33 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:09:17 test_login.py [line:24] INFO start test_login_error
+2019-06-08 09:09:39 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:09:43 function.py [line:23] INFO 保存截图
+2019-06-08 09:09:43 login_page.py [line:29] INFO 获取cookies
+2019-06-08 09:09:43 function.py [line:23] INFO 保存截图
+2019-06-08 09:10:02 test_login.py [line:34] INFO start test_login_empty
+2019-06-08 09:10:24 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:10:26 function.py [line:23] INFO 保存截图
+2019-06-08 09:10:27 login_page.py [line:29] INFO 获取cookies
+2019-06-08 09:10:27 function.py [line:23] INFO 保存截图
+2019-06-08 09:13:25 test_login.py [line:34] INFO start test_login_empty
+2019-06-08 09:13:46 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:14:10 function.py [line:23] INFO 保存截图
+2019-06-08 09:14:10 login_page.py [line:33] INFO 获取cookies
+2019-06-08 09:14:10 function.py [line:23] INFO 保存截图
+2019-06-08 09:16:55 test_login.py [line:13] INFO start test_login1_normal
+2019-06-08 09:17:03 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:17:07 function.py [line:23] INFO 保存截图
+2019-06-08 09:17:08 login_page.py [line:33] INFO 获取cookies
+2019-06-08 09:17:08 function.py [line:23] INFO 保存截图
+2019-06-08 09:17:45 test_login.py [line:13] INFO start test_login1_normal
+2019-06-08 09:17:46 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:17:51 function.py [line:23] INFO 保存截图
+2019-06-08 09:17:52 login_page.py [line:33] INFO 获取cookies
+2019-06-08 09:17:52 function.py [line:23] INFO 保存截图
+2019-06-08 09:22:58 test_login.py [line:48] INFO start test_login_ddt
+2019-06-08 09:22:59 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:23:02 function.py [line:23] INFO 保存截图
+2019-06-08 09:23:03 login_page.py [line:33] INFO 获取cookies
+2019-06-08 09:23:03 function.py [line:23] INFO 保存截图
+2019-06-08 09:23:07 test_login.py [line:15] INFO start test_login1_normal
+2019-06-08 09:23:08 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:23:12 function.py [line:23] INFO 保存截图
+2019-06-08 09:23:13 login_page.py [line:33] INFO 获取cookies
+2019-06-08 09:23:13 function.py [line:23] INFO 保存截图
+2019-06-08 09:23:41 test_login.py [line:47] INFO start test_login_ddt
+2019-06-08 09:23:43 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:23:46 function.py [line:23] INFO 保存截图
+2019-06-08 09:23:46 login_page.py [line:33] INFO 获取cookies
+2019-06-08 09:23:46 function.py [line:23] INFO 保存截图
+2019-06-08 09:23:51 test_login.py [line:47] INFO start test_login_ddt
+2019-06-08 09:23:54 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:23:57 function.py [line:23] INFO 保存截图
+2019-06-08 09:23:57 login_page.py [line:33] INFO 获取cookies
+2019-06-08 09:23:57 function.py [line:23] INFO 保存截图
+2019-06-08 09:25:37 test_login.py [line:47] INFO start test_login_ddt
+2019-06-08 09:25:38 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:25:41 function.py [line:23] INFO 保存截图
+2019-06-08 09:25:41 login_page.py [line:33] INFO 获取cookies
+2019-06-08 09:25:41 function.py [line:23] INFO 保存截图
+2019-06-08 09:25:45 test_login.py [line:47] INFO start test_login_ddt
+2019-06-08 09:25:47 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:25:49 function.py [line:23] INFO 保存截图
+2019-06-08 09:25:49 login_page.py [line:33] INFO 获取cookies
+2019-06-08 09:25:50 function.py [line:23] INFO 保存截图
+2019-06-08 09:41:05 run_test.py [line:15] INFO start test case
+2019-06-08 09:42:12 run_test.py [line:15] INFO start test case
+2019-06-08 09:42:13 test_login.py [line:48] INFO start test_login_ddt
+2019-06-08 09:42:14 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:42:18 function.py [line:23] INFO 保存截图
+2019-06-08 09:42:19 login_page.py [line:33] INFO 获取cookies
+2019-06-08 09:42:21 run_test.py [line:21] INFO send mial...
+2019-06-08 09:42:21 function.py [line:60] INFO 获取最新报告
+2019-06-08 09:42:26 function.py [line:51] INFO 发送邮件
+2019-06-08 09:42:27 run_test.py [line:23] INFO end
+2019-06-08 09:44:12 test_login.py [line:48] INFO start test_login_ddt
+2019-06-08 09:44:13 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:44:16 function.py [line:23] INFO 保存截图
+2019-06-08 09:44:17 login_page.py [line:33] INFO 获取cookies
+2019-06-08 09:44:17 function.py [line:23] INFO 保存截图
+2019-06-08 09:47:05 run_test.py [line:15] INFO start test case
+2019-06-08 09:47:07 test_login.py [line:48] INFO start test_login_ddt
+2019-06-08 09:47:08 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:47:12 function.py [line:23] INFO 保存截图
+2019-06-08 09:47:12 login_page.py [line:33] INFO 获取cookies
+2019-06-08 09:47:12 function.py [line:23] INFO 保存截图
+2019-06-08 09:47:15 run_test.py [line:21] INFO send mial...
+2019-06-08 09:47:15 function.py [line:60] INFO 获取最新报告
+2019-06-08 09:47:19 function.py [line:51] INFO 发送邮件
+2019-06-08 09:47:20 run_test.py [line:23] INFO end
+2019-06-08 09:48:28 run_test.py [line:15] INFO start test case
+2019-06-08 09:48:31 test_login.py [line:49] INFO start test_login_ddt
+2019-06-08 09:48:32 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-08 09:48:36 function.py [line:23] INFO 保存截图
+2019-06-08 09:48:36 login_page.py [line:33] INFO 获取cookies
+2019-06-08 09:48:36 function.py [line:23] INFO 保存截图
+2019-06-15 11:02:03 test_login.py [line:49] INFO start test_login_ddt
+2019-06-15 11:02:05 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-15 11:02:12 function.py [line:23] INFO 保存截图
+2019-06-15 11:02:12 login_page.py [line:33] INFO 获取cookies
+2019-06-15 11:02:12 function.py [line:23] INFO 保存截图
+2019-06-15 11:03:41 test_login.py [line:49] INFO start test_login_ddt
+2019-06-15 11:07:28 test_login.py [line:49] INFO start test_login_ddt
+2019-06-15 11:07:28 login_page.py [line:20] INFO -----------开始登录----------
+2019-06-15 11:07:31 function.py [line:23] INFO 保存截图
+2019-06-15 11:07:31 login_page.py [line:33] INFO 获取cookies
+2019-06-15 11:07:32 function.py [line:23] INFO 保存截图
