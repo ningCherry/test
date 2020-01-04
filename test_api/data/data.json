@@ -1,0 +1,19 @@
+{
+  "login":
+    {
+      "username": "hhhh1",
+      "password": "aaa1"
+    },
+  "login1": {
+    "user": "11111",
+    "pwd": 454746
+  },
+  "data1": {
+    "username": "aaaaa",
+    "password": 123456
+  },
+  "data2": {
+    "username": "aaaaa",
+    "password": 123456
+  }
+}
