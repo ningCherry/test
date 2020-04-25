@@ -6,7 +6,7 @@ import unittest
 @ddt.ddt
 class test_login(StartEnd):
 
-    @ddt.data(('宁樱樱', '834121195cherry'),)
+    @ddt.data(('宁樱樱', '**'),)
     @ddt.unpack
     def test_login1(self,username,password):
         get_logger().info('test_login1')
