@@ -1,0 +1,10 @@
+my:
+  name:
+    - 1234
+
+find:
+  selector_name:
+    - 选股器
+  stock_name:
+    - 小米
+
